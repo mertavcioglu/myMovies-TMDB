@@ -1,0 +1,32 @@
+{
+  "startingMovies": [
+    {
+      "id": "1",
+      "title": "Titanic",
+      "description": "In nec mi enim. Curabitur arcu massa, dapibus ut metus lobortis, vehicula rutrum magna. In vel lectus et tellus hendrerit blandit ac in ipsum.",
+      "rating": 7.5,
+      "imageURL": "https://images.vexels.com/media/users/3/207695/isolated/lists/f62cc7cdab93f50aa129f9c93100969b-cruise-ship-drawn.png"
+    },
+    {
+      "id": "2",
+      "title": "Braveheart",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+      "rating": 2.1,
+      "imageURL": "https://appadvice.com/cdn-cgi/mirage/eaec890b32ee033953d1542683469dcff009881bb0833aa6a0a8b9f19c50cef4/1280/https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/e7/2f/af/e72fafc0-cef9-9189-b59f-1806af43a215/source/256x256bb.jpg"
+    },
+    {
+      "id": "3",
+      "title": "The Pianist",
+      "description": "Nam ullamcorper nisl quam, vitae vulputate metus congue et. Class aptent taciti sociosqu ad litora torquent per conubia nostra",
+      "rating": 5.2,
+      "imageURL": "https://images.vexels.com/media/users/3/131735/isolated/lists/7ace9475040fe3daee4fdc3a9dc3f333-pianist-musican-silhouette.png"
+    },
+    {
+      "id": "4",
+      "title": "Forrest Gump",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+      "rating": 6.9,
+      "imageURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a504c732-2487-47cd-9380-d08f32a02454/dai0ur4-14ca5f2e-41c6-4be8-9dbd-0e906c8bba7b.png/v1/fill/w_256,h_256,strp/forrest_gump_folder_icon_by_dahlia069_dai0ur4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvYTUwNGM3MzItMjQ4Ny00N2NkLTkzODAtZDA4ZjMyYTAyNDU0XC9kYWkwdXI0LTE0Y2E1ZjJlLTQxYzYtNGJlOC05ZGJkLTBlOTA2YzhiYmE3Yi5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XGB5ghPfwru8yOYy6cRaEVoClCTxfBtGfo0dJKtPqCk"
+    }
+  ]
+}
